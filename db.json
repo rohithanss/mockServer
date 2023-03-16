@@ -1,10 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
       "email": "rhans@icloud.com",
+      "name": "Rohit Hans",
       "password": "drunkard",
-      "name": "Rohit Hans"
+      "id": 1
+    },
+    {
+      "name": "Drunkard",
+      "email": "drunkard@icloud.com",
+      "password": "drunkard",
+      "id": 2
     }
   ],
   "hotels": [
